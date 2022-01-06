@@ -1,0 +1,19 @@
+.page{
+  max-width:80%;
+  font-family:sans-serif;
+  margin:auto;
+}
+.heading{
+  position: relative;
+  text-align:center;
+}
+h1{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+}
+.animal img{
+  max-width: 250px;
+  max-height: 250px;
+}
