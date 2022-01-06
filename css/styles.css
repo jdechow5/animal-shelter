@@ -1,7 +1,5 @@
-.page{
-  max-width:80%;
+.container{
   font-family:sans-serif;
-  margin:auto;
 }
 .heading img{
   width:100%;
@@ -20,10 +18,7 @@ h1{
   left:50%;
   transform:translate(-50%, -50%);
 }
-.animal img{
+.card img{
   max-width: 250px;
   max-height: 250px;
-}
-div{
-  border:solid black 1px;
 }
