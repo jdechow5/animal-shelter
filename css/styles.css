@@ -3,9 +3,16 @@
   font-family:sans-serif;
   margin:auto;
 }
+.heading img{
+  width:100%;
+  max-height:555px;
+}
 .heading{
   position: relative;
   text-align:center;
+  margin-bottom: 5em;
+  color: white;
+  text-shadow: 1px 1px;
 }
 h1{
   position:absolute;
@@ -16,4 +23,7 @@ h1{
 .animal img{
   max-width: 250px;
   max-height: 250px;
+}
+div{
+  border:solid black 1px;
 }
